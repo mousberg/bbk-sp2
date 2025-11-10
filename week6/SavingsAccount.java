@@ -1,4 +1,3 @@
-package lab06material;
 
 public class SavingsAccount extends Account implements ProvidesMonthlyIncome {
 	private double interestRate; // percentage

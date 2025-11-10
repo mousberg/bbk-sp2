@@ -1,4 +1,3 @@
-package lab06material;
 
 /**
  * Driver class for the ProvidesMonthlyIncome interface

@@ -1,4 +1,3 @@
-package lab06material;
 
 public class Bird extends Animal {
 	public void f(String u) { 

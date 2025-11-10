@@ -1,4 +1,3 @@
-package lab06material;
 
 public class Account {
 	private double balance;

@@ -13,7 +13,8 @@ The SP2 module focuses on advanced programming concepts and object-oriented desi
 ├── week2/          # Week 2: Methods Lab Exercises  
 ├── week3/          # Week 3: Arrays and ArrayLists Lab Exercises
 ├── week4/          # Week 4: Objects and Classes Lab Exercises
-└── week5/          # Week 5: Inheritance Lab Exercises
+├── week5/          # Week 5: Inheritance Lab Exercises
+└── week6/          # Week 6: Inheritance and Interfaces Lab Exercises
 ```
 
 ## 🗓️ Weekly Content
@@ -53,6 +54,15 @@ The SP2 module focuses on advanced programming concepts and object-oriented desi
 - Constructor chaining
 - Real-world inheritance modeling (Person → Student/Lecturer → Professor)
 
+### Week 6: Inheritance and Interfaces
+- Method overloading and polymorphism
+- Runtime vs compile-time method resolution
+- Interface implementation (HasName, ProvidesMonthlyIncome)
+- Default methods in interfaces
+- Account hierarchy and SavingsAccount
+- RentalProperty class
+- Type casting and instanceof operator
+
 ## 🚀 Getting Started
 
 1. **Clone the repository:**
@@ -63,7 +73,7 @@ The SP2 module focuses on advanced programming concepts and object-oriented desi
 
 2. **Navigate to specific week:**
    ```bash
-   cd week1  # or week2, week3, week4, week5
+   cd week1  # or week2, week3, week4, week5, week6
    ```
 
 3. **Compile and run Java files:**

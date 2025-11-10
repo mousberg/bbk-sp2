@@ -1,4 +1,3 @@
-package lab06material;
 
 public class Person implements HasName {
 	private String name;

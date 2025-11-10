@@ -1,4 +1,3 @@
-package lab06material;
 
 public class Animal {
 	public void f(Object s) { 

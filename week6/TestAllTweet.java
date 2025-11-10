@@ -1,4 +1,3 @@
-package lab06material;
 
 public class TestAllTweet {
 	public static void main(String[] args) {

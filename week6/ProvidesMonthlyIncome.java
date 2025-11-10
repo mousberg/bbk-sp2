@@ -1,4 +1,3 @@
-package lab06material;
 
 public interface ProvidesMonthlyIncome {
 	double getMonthlyIncome();

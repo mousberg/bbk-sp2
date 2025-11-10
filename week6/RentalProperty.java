@@ -1,4 +1,3 @@
-package lab06material;
 
 /**
  * A RentalProperty has an address and a rent.
