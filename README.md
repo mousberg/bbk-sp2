@@ -14,7 +14,8 @@ The SP2 module focuses on advanced programming concepts and object-oriented desi
 ├── week3/          # Week 3: Arrays and ArrayLists Lab Exercises
 ├── week4/          # Week 4: Objects and Classes Lab Exercises
 ├── week5/          # Week 5: Inheritance Lab Exercises
-└── week6/          # Week 6: Inheritance and Interfaces Lab Exercises
+├── week6/          # Week 6: Inheritance and Interfaces Lab Exercises
+└── week8/          # Week 8: Exceptions and Input/Output Lab Exercises
 ```
 
 ## 🗓️ Weekly Content
@@ -63,6 +64,16 @@ The SP2 module focuses on advanced programming concepts and object-oriented desi
 - RentalProperty class
 - Type casting and instanceof operator
 
+### Week 8: Exceptions and Input/Output
+- Exception handling and propagation
+- Try-catch-finally blocks
+- Checked vs unchecked exceptions
+- NullPointerException debugging
+- Input validation with Scanner
+- Robust error handling with loops
+- Command line argument processing
+- Type detection (int vs double)
+
 ## 🚀 Getting Started
 
 1. **Clone the repository:**
@@ -73,7 +84,7 @@ The SP2 module focuses on advanced programming concepts and object-oriented desi
 
 2. **Navigate to specific week:**
    ```bash
-   cd week1  # or week2, week3, week4, week5, week6
+   cd week1  # or week2, week3, week4, week5, week6, week8
    ```
 
 3. **Compile and run Java files:**
