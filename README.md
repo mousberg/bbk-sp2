@@ -15,7 +15,8 @@ The SP2 module focuses on advanced programming concepts and object-oriented desi
 ├── week4/          # Week 4: Objects and Classes Lab Exercises
 ├── week5/          # Week 5: Inheritance Lab Exercises
 ├── week6/          # Week 6: Inheritance and Interfaces Lab Exercises
-└── week8/          # Week 8: Exceptions and Input/Output Lab Exercises
+├── week8/          # Week 8: Exceptions and Input/Output Lab Exercises
+└── week9/          # Week 9: JUnit Testing Lab Exercises
 ```
 
 ## 🗓️ Weekly Content
@@ -74,6 +75,16 @@ The SP2 module focuses on advanced programming concepts and object-oriented desi
 - Command line argument processing
 - Type detection (int vs double)
 
+### Week 9: JUnit Testing
+- JUnit 5 (Jupiter) test suite creation
+- Unit testing best practices
+- Test coverage and code paths
+- Exception testing with assertThrows
+- Timeout testing (assertTimeout vs assertTimeoutPreemptively)
+- Performance testing
+- Test organization and @DisplayName annotations
+- Comprehensive test case design
+
 ## 🚀 Getting Started
 
 1. **Clone the repository:**
@@ -84,7 +95,7 @@ The SP2 module focuses on advanced programming concepts and object-oriented desi
 
 2. **Navigate to specific week:**
    ```bash
-   cd week1  # or week2, week3, week4, week5, week6, week8
+   cd week1  # or week2, week3, week4, week5, week6, week8, week9
    ```
 
 3. **Compile and run Java files:**
